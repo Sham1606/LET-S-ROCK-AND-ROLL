@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://image.shutterstock.com/image-vector/lets-rock-neon-sign-design-260nw-1788576398.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+#color-overlay{
+    margin: 0;
+    padding: 0;
+    opacity: 0.8;
+    text-align: center;
+    color: white;
+}
+
+#text{
+    line-height: 100vh;
+    font-size: 80px;
+    margin: 0;
+}
